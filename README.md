@@ -1,11 +1,9 @@
-# 💫 Sobre mi:
-Actualmente me encuentro estudiando el ciclo superior de Desarrollo de Aplicaciones Multimedia en el centro de estudios Stucom-Pelaio.<br>Me apasiona el mundo de la programación, especialmente el desarrollo backend. Disfruto diseñando soluciones eficientes, escalables y optimizadas para resolver problemas complejos y mejorar la experiencia de los usuarios.<br><br>Actualmente, estoy profundizando en tecnologías como Java y Python, así como bases de datos relacionales como MySQL. Además, me interesa aprender sobre arquitecturas como REST y GraphQL, y explorar conceptos avanzados como el diseño de microservicios.<br><br>Estoy abierto a colaborar en proyectos que me permitan crecer como desarrollador, aportar valor al equipo, y seguir aprendiendo nuevas tecnologías y metodologías de trabajo. En mi tiempo libre, también me gusta trabajar en proyectos personales y contribuir a la comunidad de código abierto.<br><br>Si te interesa trabajar conmigo o tienes una idea interesante en la que colaborar, no dudes en ponerte en contacto conmigo. ¡Siempre estoy dispuesto a aprender y compartir conocimientos!
-
+# 💫 About Me:
+I’m currently studying the Advanced Diploma in Multimedia Application Development at Stucom-Pelaio Educational Center.<br>I’m passionate about the world of programming, especially backend development. I enjoy designing efficient, scalable, and optimized solutions to solve complex problems and improve user experience.<br><br>Right now, I’m deepening my knowledge in technologies like Java and Python, as well as relational databases like MySQL. I’m also interested in learning about architectures such as REST and GraphQL, and exploring advanced concepts like microservices design.<br><br>I’m open to collaborating on projects that allow me to grow as a developer, add value to the team, and keep learning new technologies and work methodologies. In my free time, I also enjoy working on personal projects and contributing to the open-source community.<br><br>If you’re interested in working with me or have an interesting idea to collaborate on, feel free to reach out. I’m always eager to learn and share knowledge!
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
