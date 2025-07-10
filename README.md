@@ -12,10 +12,8 @@ I’m currently studying the Advanced Diploma in Multimedia Application Developm
 
 
 # 📊 GitHub Stats:
-<div style="display:flex">
-  ![](https://github-readme-stats.vercel.app/api?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
