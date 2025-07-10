@@ -13,3 +13,6 @@ I’m currently studying the Advanced Diploma in Multimedia Application Developm
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![snorlax-gif](https://github.com/user-attachments/assets/fe4fdf12-b5d0-44f1-ba03-0dc6670e9dc8)
