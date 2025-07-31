@@ -1,5 +1,11 @@
 # 💫 About Me:
 I’m currently studying the Advanced Diploma in Multimedia Application Development at FPLinkia Online.<br>I’m passionate about the world of programming, especially backend development. I enjoy designing efficient, scalable, and optimized solutions to solve complex problems and improve user experience.<br><br>Right now, I’m deepening my knowledge in technologies like Java and Python, as well as relational databases like MySQL. I’m also interested in learning about architectures such as REST and GraphQL, and exploring advanced concepts like microservices design.<br><br>I’m open to collaborating on projects that allow me to grow as a developer, add value to the team, and keep learning new technologies and work methodologies. In my free time, I also enjoy working on personal projects and contributing to the open-source community.<br><br>If you’re interested in working with me or have an interesting idea to collaborate on, feel free to reach out. I’m always eager to learn and share knowledge!
+</br></br>
+<p align="center">
+  <img width="80%" alt="Programando" src="https://github.com/user-attachments/assets/5516afde-5a85-4536-89d1-0a639d47712f"/>
+</p>
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
