@@ -9,7 +9,7 @@ I’m currently studying the Advanced Diploma in Multimedia Application Developm
 
 
 # 💻 Tech Stack:
-<img align="left" width="60%" alt="Programando" src="https://github.com/user-attachments/assets/819e0a16-5efa-421f-bc3a-08fbce7792af" />
+<img align="center" width="70%" alt="Programando" src="https://github.com/user-attachments/assets/819e0a16-5efa-421f-bc3a-08fbce7792af" />
 </br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
