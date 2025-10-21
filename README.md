@@ -9,8 +9,6 @@ I’m currently studying the Advanced Diploma in Multimedia Application Developm
 
 
 # 💻 Tech Stack:
-<img align="center" width="70%" alt="Programando" src="https://github.com/user-attachments/assets/819e0a16-5efa-421f-bc3a-08fbce7792af" />
-</br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoceraCia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -31,7 +29,8 @@ I’m currently studying the Advanced Diploma in Multimedia Application Developm
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-</br></br></br></br>
+<img align="center" width="70%" alt="Programando" src="https://github.com/user-attachments/assets/819e0a16-5efa-421f-bc3a-08fbce7792af" />
+</br></br>
 
 # 📊 GitHub Stats:
 
